@@ -1,0 +1,7 @@
+Por favor, analise o seguinte trecho de código e identifique como ele se alinha ou viola os princípios SOLID. Para cada princípio, forneça exemplos específicos do código e sugestões de melhorias, se necessário. Os princípios a serem considerados são:
+
+- Single Responsibility Principle (SRP): O código tem uma única responsabilidade?
+- Open/Closed Principle (OCP): O código é aberto para extensão, mas fechado para modificação?
+- Liskov Substitution Principle (LSP): As subclasses podem ser usadas como substitutas das classes base sem alterar o comportamento esperado?
+- Interface Segregation Principle (ISP): As interfaces são específicas e não forçam implementações desnecessárias?
+- Dependency Inversion Principle (DIP): O código depende de abstrações em vez de implementações concretas?
